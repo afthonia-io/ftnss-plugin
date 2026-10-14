@@ -1,0 +1,8 @@
+{
+  "name": "ftnss",
+  "displayName": "FTNSS",
+  "description": "Connects your FTNSS account to read your workouts, heart rate and readiness, build your timers, routines, goals and training plans, and download your data.",
+  "version": "1.0.0",
+  "author": { "name": "Afthonia" },
+  "homepage": "https://afthonia.io/ftnss/assistants"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "afthonia",
+  "owner": { "name": "Afthonia" },
+  "description": "Afthonia's plugins",
+  "plugins": [
+    {
+      "name": "ftnss",
+      "source": "./ftnss"
+    }
+  ]
+}
